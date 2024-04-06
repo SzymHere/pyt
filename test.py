@@ -1,4 +1,4 @@
-# Trójkąt
+# Trójkąt Test
 def triangle_area(base, height):
     """
     Calculates the area of a triangle given its base and height.
